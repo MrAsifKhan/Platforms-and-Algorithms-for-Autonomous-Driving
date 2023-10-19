@@ -1,2 +1,5 @@
 # Platforms-and-Algorithms-for-Autonomous-Driving
-Projects related to Autonomous driving course
+**Modules 1:**
+  Perception and Sensor Fusion of LIDAR and RADAR data
+**Module 2:**
+  Modeling, Motion Control and Motion Planning of Autonomous vehicles
